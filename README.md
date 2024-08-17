@@ -19,6 +19,7 @@ npm run build
 ```
 npm run lint
 ```
+### caso precise altere o arquivo axios.js para apontar para o host onde esta rodando o backend movieflix.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
